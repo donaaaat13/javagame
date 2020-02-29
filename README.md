@@ -6,3 +6,4 @@
  - Kováts Donát
 
  2019/2020/2
+ "Edit by JA"
